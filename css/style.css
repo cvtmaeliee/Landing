@@ -1,0 +1,38 @@
+@import url("https://fonts.googleapis.com/css2?family=League+Spartan:wght@200;600&family=Playfair+Display&family=Questrial&display=swap");
+
+@import url("component/container.css");
+@import url("component/icones.css");
+@import url("component/button.css");
+@import url("component/banner.css");
+@import url("component/card.css");
+@import url("component/card-content.css");
+
+body{
+	font-family: 'League Spartan', sans-serif;
+	font-weight: 200;
+	margin: 0px;
+}
+
+
+
+h2, h3, h5, h6{
+	font-family: 'Questrial', sans-serif;
+	text-transform: uppercase;
+}
+
+h2{
+	font-size: 14px;
+}
+
+h3{
+	font-size: 12px;
+	text-align: center;
+}
+
+a{
+	text-decoration: none;
+}
+
+h5{
+	font-size: 30px;
+}
